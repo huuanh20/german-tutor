@@ -2,8 +2,11 @@
   "student": "huuanh20",
   "start_date": "2026-11-04",
   "target": "B1 Solid (Goethe / telc)",
+  "learning_folder": "C:\\Users\\anh58\\Hoc_Tieng_Duc",
   "current_level": "A0",
-  "current_lesson": "A0.1 - Bảng chữ cái và Phát âm",
+  "current_stage": "A0 - Phát âm & Nền móng",
+  "current_lesson": "A0.1 - Bảng chữ cái và 4 ký tự đặc biệt",
+  "next_step": "Học bảng chữ cái, 3 chữ biến âm ä, ö, ü và chữ ß bằng phiên âm bồi thuần Việt",
   "completed_lessons": [],
   "stats": {
     "total_vocabulary_count": 5,
